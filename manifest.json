@@ -1,6 +1,6 @@
 {
-    "name": "my_precious_homepage",
-    "short_name": "my_precious_homepage",
+    "name": "My Precious",
+    "short_name": "MP",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
