@@ -74583,7 +74583,7 @@ return A.R($async$wh,r)},
 wi(){var s=0,r=A.S(t.H)
 var $async$wi=A.T(function(a,b){if(a===1)return A.P(b,r)
 while(true)switch(s){case 0:s=2
-return A.a0(A.rT("https://appgallery.huawei.com/#/app/C108821689"),$async$wi)
+return A.a0(A.rT("https://appgallery.huawei.com/#/app/C108821689?sharePrepath=ag"),$async$wi)
 case 2:return A.Q(null,r)}})
 return A.R($async$wi,r)},
 $ijd:1}
