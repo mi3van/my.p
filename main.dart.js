@@ -73186,7 +73186,7 @@ s=A.cW(a,B.as,t.A)
 s.toString
 r=A.ad(a)
 q=t.p
-return new A.jd(A.il(B.bO,A.a([new A.Dh(A.DV(A.a([A.aus(s.gis(),p),A.aus(s.git(),r.ax.b),B.a1m,new A.N0(s.ghT(),new A.dz(),p)],q),B.bU,B.aK,B.cA),new A.dz(),p),new A.dF(B.Fl,new A.Dg(new A.by(B.Ja,A.Hl("assets/images/app_screen_pixel4.webp",$.aqr(),$.azE(),p),p),B.bG,B.bD,new A.dz(),p),p)],q),B.cO,B.aA,24,24),24,p)}}
+return new A.jd(A.il(B.bO,A.a([new A.Dh(A.DV(A.a([A.aus(s.gis(),p),A.aus(s.git(),r.ax.b),B.a1m,new A.N0(s.ghT(),new A.dz(),p)],q),B.bU,B.aK,B.cA),new A.dz(),p),new A.dF(B.Fl,new A.Dg(new A.by(B.Ja,A.Hl("assets/images/app_screen_pixel4.webp",$.aqr(),$.azE(),368),p),B.bG,B.bD,new A.dz(),p),p)],q),B.cO,B.aA,24,24),24,p)}}
 A.HJ.prototype={
 G(a){$.bs()
 $.aI().$1$0(t.O)
@@ -80619,7 +80619,7 @@ return A.al5(B.iW,B.iB.gEV(),B.iM,!1,B.iS,q,p)})
 s($,"aPW","azI",()=>B.i.k(A.wv(A.aCO())))
 s($,"aPL","azD",()=>A.aL2(556,1056))
 s($,"aPM","aqr",()=>736)
-s($,"aPN","azE",()=>B.c.ad($.aqr()*0.5478))
+s($,"aPN","azE",()=>B.c.ad($.aqr()*0.70424597))
 s($,"aPK","azC",()=>112)
 s($,"aQ8","azN",()=>{var q,p,o=A.x(t.N,A.ar("po"))
 for(q=0;q<13;++q){p=B.hj[q]
