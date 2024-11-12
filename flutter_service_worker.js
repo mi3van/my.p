@@ -30,7 +30,7 @@ const RESOURCES = {"assets/AssetManifest.bin": "168a804505af20d0bbbfeaf76f9779bc
 "canvaskit/skwasm.worker.js": "89990e8c92bcb123999aa81f7e203b1c",
 "favicon.png": "6215750e68e110398b610deb1535babe",
 "flutter.js": "f393d3c16b631f36852323de8e583132",
-"flutter_bootstrap.js": "f7b7c66a779ed4bd0ca0f976e8565fde",
+"flutter_bootstrap.js": "87e5acbf6445ec2dcb5f2710b98657ca",
 "icons/Icon-192.png": "bee17dcbe27ed6834b599215753da8db",
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
@@ -38,7 +38,7 @@ const RESOURCES = {"assets/AssetManifest.bin": "168a804505af20d0bbbfeaf76f9779bc
 "index.html": "2fb84146c30e1d29bf0e6154a62a1ed1",
 "/": "2fb84146c30e1d29bf0e6154a62a1ed1",
 "LICENSE": "9529f967a5e63f069b867746efb4c476",
-"main.dart.js": "6cca3189996048f346bf25b82ce3f86b",
+"main.dart.js": "d490dcb63ac61aa954297670ddfb2ad4",
 "manifest.json": "bfd135f93a7463432ca1f8777f56f5ed",
 "README.md": "ed86023d4051cd8d99498070254e1ad7",
 "version.json": "b5201afffda8f1430be188838f5359bb"};
